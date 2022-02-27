@@ -1,3 +1,8 @@
+/*********************************************************************************
+Program Name: calculator.c
+Program Description: this is a calculator project.
+Program Author: <YOUR NAME HERE>
+**********************************************************************************/
 #include <stdio.h>
 
 int sum(int num1, int num2) {
